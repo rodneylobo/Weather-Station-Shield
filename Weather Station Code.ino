@@ -16,7 +16,7 @@ dht DHT;
    
 int tx_no=0;                                 // Transmission # for testing
 
-// include the library code:
+
 
 // initialize the library by associating any needed LCD interface pin
 // with the arduino pin number it is connected to
